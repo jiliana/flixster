@@ -32,16 +32,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [x] (2pt) User can view the app on various device sizes and orientations.
+- [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/5aTyO6h.gif)
-*iPhone 11 Portrait Mode (Above)*
+<img src="https://i.imgur.com/C8NY7Aj.gif" width=250><br>
 
-![](https://i.imgur.com/iERBRCI.gif)
-*iPhone 8 Landscape Mode (Above)*
 
 ### Notes
 Implementing AlamofireImage did not work initially, but after several reloads, the posterView finally showed the images.
